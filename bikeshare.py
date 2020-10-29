@@ -16,9 +16,9 @@
      "name": "stdin",
      "output_type": "stream",
      "text": [
-      "Please specify the city you would like to explore:  washington\n",
-      "Please specify the month you would like to explore or simply write 'all':  all\n",
-      "Please specify the week you would like to explore or simply write 'all':  all\n"
+      "Please specify the city you would like to discover:  washington\n",
+      "Please specify the month you would like to discover or simply write 'all':  all\n",
+      "Please specify the week you would like to discover or simply write 'all':  all\n"
      ]
     },
     {
